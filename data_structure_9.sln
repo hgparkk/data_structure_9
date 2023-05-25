@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "data_structure_9", "data_st
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "binarySearchTreeExample", "binarySearchTreeExample\binarySearchTreeExample.vcxproj", "{2BD85601-F32E-4D05-80CD-02F5FFED31C4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wordList", "wordList\wordList.vcxproj", "{486F5A2A-E52C-4C37-9034-D841EF8EE0BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{2BD85601-F32E-4D05-80CD-02F5FFED31C4}.Release|x64.Build.0 = Release|x64
 		{2BD85601-F32E-4D05-80CD-02F5FFED31C4}.Release|x86.ActiveCfg = Release|Win32
 		{2BD85601-F32E-4D05-80CD-02F5FFED31C4}.Release|x86.Build.0 = Release|Win32
+		{486F5A2A-E52C-4C37-9034-D841EF8EE0BF}.Debug|x64.ActiveCfg = Debug|x64
+		{486F5A2A-E52C-4C37-9034-D841EF8EE0BF}.Debug|x64.Build.0 = Debug|x64
+		{486F5A2A-E52C-4C37-9034-D841EF8EE0BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{486F5A2A-E52C-4C37-9034-D841EF8EE0BF}.Debug|x86.Build.0 = Debug|Win32
+		{486F5A2A-E52C-4C37-9034-D841EF8EE0BF}.Release|x64.ActiveCfg = Release|x64
+		{486F5A2A-E52C-4C37-9034-D841EF8EE0BF}.Release|x64.Build.0 = Release|x64
+		{486F5A2A-E52C-4C37-9034-D841EF8EE0BF}.Release|x86.ActiveCfg = Release|Win32
+		{486F5A2A-E52C-4C37-9034-D841EF8EE0BF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
